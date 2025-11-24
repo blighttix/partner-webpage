@@ -12,14 +12,23 @@ background-color: black;
 margin-left: 50px;
 margin-right: 50px;}
 
+
 img {margin: 10px;
 border: 4px solid rgb(168, 65, 65);}
 
-.terios {   float: right; width: 390px; position: relative; bottom: 50px;}
-.shadow-pixels {   float: right; position: relative; bottom: 50px; border-style: none;}
+.terios {float: right; width: 390px; position: relative; bottom: 50px;}
+.shadow-pixels {float: right; position: relative; bottom: 50px; border-style: none;}
+.dreamcast {float: right; position: relative; width: 250px;}
+.ce {width: 70px; border-style: none;}
+.st {float: left; width: 420px;}
+.car {width: 300px; float: left;}
 
 .center {text-align: center;}
+.powers, li {margin: 10px;}
 
-table, th, td {border: 3px solid black;}
+th, td {border: 3px solid black;
+text-align: center;}
+table {margin: auto;}
+
 
 a {color: red;}
